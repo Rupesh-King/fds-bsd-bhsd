@@ -1,0 +1,46 @@
+//variable declaration
+var rupesh;
+var array [];
+var array[0,1,2];\
+
+//sprite objects
+var ball=createSprite(x,y,width,height);
+drawSprites();
+
+
+//conditional programming
+if(x=<30){
+statement of executon;
+}
+else{
+statement of executon;
+}
+
+for(rupesh=1;rupesh>0;rupesh++){
+    statement of executon;
+}
+
+
+switch(rupesh){
+    case1:console.log("Rupesh is king")
+    break;
+    case2:console.log("ashish is another king";)
+    break;
+    default;
+}
+function rupesh(){
+    statement of executon;
+}
+function rupesh();
+
+const world=matter.world;
+const engine=matter.world;
+const body=matter.world;
+
+class bird extends baseClass{
+    constructor();
+    display();
+}
+ref.database;
+on(reading from database);
+set();
